@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Licensing
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: skanikdale
+Implementation-Vendor-Id: com.ptc
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/licensing/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,12 @@
+com\ptc\licensing\core\LicensingException.class
+com\ptc\licensing\core\LicenseController.class
+com\ptc\licensing\core\ILicenseManager.class
+com\ptc\licensing\core\PTCLicenseManager.class
+com\ptc\licensing\core\LicenseController$1.class
+com\ptc\licensing\spring\LicenseEntitilementRestController.class
+com\ptc\licensing\spring\LicensingApplication.class
+com\ptc\licensing\spring\ApplicationConfig.class
+com\ptc\licensing\spring\LicenseEntitlementRepository.class
+com\ptc\licensing\spring\LicenseEntitilementService.class
+com\ptc\licensing\core\LicenseManagerType.class
+com\ptc\licensing\core\LicenseEntitlement.class
